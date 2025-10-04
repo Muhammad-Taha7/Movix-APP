@@ -18,17 +18,35 @@ Interactive UI: Movie cards, carousels, and dynamic routing for detailed pages.
 
 Screenshots 🖼️
 
-(Add screenshots of your app here)
+<img width="1920" height="948" alt="image" src="https://github.com/user-attachments/assets/584bfa60-a663-4e93-b0cf-18e6e68696f1" />
+
 
 Home Page
 
+<img width="1920" height="953" alt="image" src="https://github.com/user-attachments/assets/6b6d0856-3277-48a6-8678-83bf3d87afe0" />
+
+
 Movie Details Page
+
+
+<img width="1920" height="957" alt="image" src="https://github.com/user-attachments/assets/b98448b2-d65e-4806-9bfc-7b317c5a6c32" />
+
+
+<img width="1894" height="872" alt="image" src="https://github.com/user-attachments/assets/6545b4c4-7534-43f8-a9f0-37f57a030bbd" />
 
 Login/Signup Page
 
 Feedback Form
 
+<img width="1919" height="953" alt="image" src="https://github.com/user-attachments/assets/40aa3c24-bb12-4d01-935f-a6f64a9635cd" />
+
+
 Technologies Used 🛠️
+
+<img width="1023" height="731" alt="image" src="https://github.com/user-attachments/assets/e5f92642-9ae8-4880-a3a7-34b5d8e20845" />
+
+<img width="1412" height="672" alt="image" src="https://github.com/user-attachments/assets/10f03700-d223-4aa1-a09b-d1167073e926" />
+
 
 Frontend: React, Tailwind CSS, JavaScript
 
