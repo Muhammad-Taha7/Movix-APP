@@ -5,6 +5,7 @@ import { Feedback } from "./Components/Feedback";
 import { About } from "./Components/About";
 import { Login } from "./Auth/Login";
 import { Error } from "./Error/Error";
+import { Portal } from "./Components/StoredData";
 
 export const App = () => {
   const router = createBrowserRouter([
@@ -34,6 +35,10 @@ export const App = () => {
         {
           path: "feedback", // /app/feedback
           element: <Feedback />,
+        },
+         {
+          path: "portal", // /app/feedback
+          element: <Portal />,
         },
       ],
     },

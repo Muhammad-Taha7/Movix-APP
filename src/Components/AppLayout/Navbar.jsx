@@ -12,6 +12,7 @@ export const Navbar = () => {
     { to: "/app", label: "Home" },
     { to: "/app/about", label: "About" },
     { to: "/app/feedback", label: "Feedback" },
+    { to: "/app/portal", label: "Portal" },
   ];
 
   const handleLogout = async () => {
